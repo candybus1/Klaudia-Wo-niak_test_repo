@@ -1,6 +1,7 @@
 ```{r}
 liczby <- c(1, 2, 3, 4, 5)
 mean(liczby)
+plot(liczby, col = "plum")
 ```
 
 
