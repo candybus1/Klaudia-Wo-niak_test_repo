@@ -7,3 +7,5 @@ plot(liczby, col = "plum")
 
 ```{r}
 a <- 2
+
+x > 4 
