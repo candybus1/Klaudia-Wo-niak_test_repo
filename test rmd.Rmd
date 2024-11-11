@@ -6,3 +6,5 @@ mean(liczby)
 
 ```{r}
 a <- 2
+
+x > 4 
